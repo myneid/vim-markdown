@@ -2,6 +2,9 @@
 
 A lightweight Vim/Neovim plugin to preview Markdown files. Toggle between edit and preview with a single keymap. Supports four backends: **native** (default), **frogmouth**, **glow**, and **pandoc** (browser).
 
+<img width="640" height="440" alt="screen-recording-2026-05-18-trimmed" src="https://github.com/user-attachments/assets/cb90269f-58e6-4869-bd41-c019d66199bb" />
+
+
 ## Requirements
 
 - Vim 8+ or Neovim
